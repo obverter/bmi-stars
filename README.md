@@ -29,23 +29,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/obverter/repo_name">
+  <a href="https://github.com/obverter/bmi-stars">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Heavy Hitters</h3>
 
   <p align="center">
-    project_description
+    It is said that baseball is a game of inches. But what if it were a game of pounds?
     <br />
-    <a href="https://github.com/obverter/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/obverter/bmi-stars"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/obverter/repo_name">View Demo</a>
+    <a href="https://github.com/obverter/bmi-stars">View Demo</a>
     ·
-    <a href="https://github.com/obverter/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/obverter/bmi-stars/issues">Report Bug</a>
     ·
-    <a href="https://github.com/obverter/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/obverter/bmi-stars/issues">Request Feature</a>
   </p>
 </div>
 
@@ -84,7 +84,7 @@
 <!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `obverter`, `repo_name`, `obverter`, `BenTylerElliott`, `obverter.com`, `ben`, `project_title`, `project_description` -->
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `obverter`, `bmi-stars`, `obverter`, `BenTylerElliott`, `obverter.com`, `ben`, `Heavy Hitters`, `It is said that baseball is a game of inches. But what if it were a game of pounds?` -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,34 +112,30 @@
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps. -->
-### Installation
+### Play around with my work
 
 First, you'll need to clone the repo. Follow these instructions carefully.
-<!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
+
 1. Navigate to somewhere amazing on your machine.
     ```sh
     $ cd foo/bar/banana/pajama/somewhere/amazing/
     ```
 2. Clone the repo.
    ```sh
-   git clone https://github.com/obverter/repo_name.git
+   $ git clone https://github.com/obverter/bmi-stars.git
    ```
 3. Ensure that your machine and this repo are codependent.
    ```sh
-   pip install -r requirements.txt
+   $ pip install -r requirements.txt
    ```
 <!-- 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```-->
-
-<!-- ### Prerequisites
-
-First, you'll need to make sure that your machine and this repo are codependent.
-* pip
-  ```sh
-  pip install -r requirements.txt
-  ``` -->
+4. Split the atom.
+   ```sh
+   $ jupyter notebook
+   ```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -160,12 +156,10 @@ First, you'll need to make sure that your machine and this repo are codependent.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Revisit this project in np.random.default_rng().integers(low=1, high=12) months.
 
-See the [open issues](https://github.com/obverter/repo_name/issues) for a full list of proposed features (and known issues).
+
+See the [open issues](https://github.com/obverter/bmi-stars/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,7 +170,9 @@ See the [open issues](https://github.com/obverter/repo_name/issues) for a full l
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Please don't be bashful. You won't hurt my feelings.
+
+If my analyses seem fundamentally wrong and/or are yucking your yum, let me know why! Projects are never finished; only abandoned. I'm always looking to improve.
 
 Don't forget to give the project a star! And then make a burner account and give it another star! Thanks again!
 
@@ -204,7 +200,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@obverter](https://twitter.com/obverter) - ben@obverter.com.com
 
-Project Link: [https://github.com/obverter/repo_name](https://github.com/obverter/repo_name)
+Project Link: [https://github.com/obverter/bmi-stars](https://github.com/obverter/bmi-stars)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -213,9 +209,9 @@ Project Link: [https://github.com/obverter/repo_name](https://github.com/obverte
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Kermit](https://instagram.com/dangerkermit)
+<!-- * []()
+* []() -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -223,16 +219,16 @@ Project Link: [https://github.com/obverter/repo_name](https://github.com/obverte
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/obverter/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/obverter/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/obverter/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/obverter/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/obverter/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/obverter/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/obverter/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/obverter/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/obverter/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/obverter/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/obverter/bmi-stars.svg?style=for-the-badge
+[contributors-url]: https://github.com/obverter/bmi-stars/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/obverter/bmi-stars.svg?style=for-the-badge
+[forks-url]: https://github.com/obverter/bmi-stars/network/members
+[stars-shield]: https://img.shields.io/github/stars/obverter/bmi-stars.svg?style=for-the-badge
+[stars-url]: https://github.com/obverter/bmi-stars/stargazers
+[issues-shield]: https://img.shields.io/github/issues/obverter/bmi-stars.svg?style=for-the-badge
+[issues-url]: https://github.com/obverter/bmi-stars/issues
+[license-shield]: https://img.shields.io/github/license/obverter/bmi-stars.svg?style=for-the-badge
+[license-url]: https://github.com/obverter/bmi-stars/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/BenTylerElliott
 [product-screenshot]: images/screenshot.png
