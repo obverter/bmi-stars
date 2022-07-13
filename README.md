@@ -118,7 +118,7 @@ First, you'll need to clone the repo. Follow these instructions carefully.
 
 1. Navigate to somewhere amazing on your machine.
     ```sh
-    $ cd foo/bar/banana/pajama/somewhere/amazing/
+    $ cd usr/banana/pajama/somewhere/amazing/
     ```
 2. Clone the repo.
    ```sh
