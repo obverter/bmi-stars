@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/obverter/bmi-stars">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/heavy_hitters.png" width="1280" height="640">
   </a>
 
 <h3 align="center">Heavy Hitters</h3>
@@ -41,11 +41,11 @@
     <a href="https://github.com/obverter/bmi-stars"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/obverter/bmi-stars">View Demo</a>
+    <!-- <a href="https://github.com/obverter/bmi-stars">View Demo</a> -->
     ·
-    <a href="https://github.com/obverter/bmi-stars/issues">Report Bug</a>
+    <a href="https://github.com/obverter/bmi-stars/issues">Report Bad Analysis</a>
     ·
-    <a href="https://github.com/obverter/bmi-stars/issues">Request Feature</a>
+    <a href="https://github.com/obverter/bmi-stars/issues">Request Further Investigation</a>
   </p>
 </div>
 
@@ -118,7 +118,7 @@ First, you'll need to clone the repo. Follow these instructions carefully.
 
 1. Navigate to somewhere amazing on your machine.
     ```sh
-    $ cd foo/bar/banana/pajama/somewhere/amazing/
+    $ cd banana/pajama/somewhere/amazing/
     ```
 2. Clone the repo.
    ```sh
@@ -145,6 +145,8 @@ First, you'll need to clone the repo. Follow these instructions carefully.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Apply directly to the forehead.
+
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
@@ -156,7 +158,7 @@ First, you'll need to clone the repo. Follow these instructions carefully.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Revisit this project in np.random.default_rng().integers(low=1, high=12) months.
+- [ ] Revisit this project in <code>np.random.default_rng().integers(low=1, high=12)</code> months.
 
 
 See the [open issues](https://github.com/obverter/bmi-stars/issues) for a full list of proposed features (and known issues).
@@ -170,9 +172,9 @@ See the [open issues](https://github.com/obverter/bmi-stars/issues) for a full l
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Please don't be bashful. You won't hurt my feelings.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Please don't be bashful. You won't hurt my feelings, for I do not have any.
 
-If my analyses seem fundamentally wrong and/or are yucking your yum, let me know why! Projects are never finished; only abandoned. I'm always looking to improve.
+If my analyses seem fundamentally wrong and/or are yucking your yum, let me know why! Projects are never finished; only abandoned. 60% of the time, I'm always looking to improve.
 
 Don't forget to give the project a star! And then make a burner account and give it another star! Thanks again!
 
