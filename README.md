@@ -30,7 +30,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/obverter/bmi-stars">
+<<<<<<< Updated upstream
     <img src="images/logo.png" alt="Logo" width="80" height="80">
+=======
+    <img src="images/heavy_hitters.png">
+>>>>>>> Stashed changes
   </a>
 
 <h3 align="center">Heavy Hitters</h3>
