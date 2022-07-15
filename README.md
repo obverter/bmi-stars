@@ -30,7 +30,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/obverter/bmi-stars">
-    <img src="images/heavy_hitters.png" width="1280" height="640">
+    <img src="images/heavy_hitters.png">
+
   </a>
 
 <h3 align="center">Heavy Hitters</h3>
@@ -118,7 +119,9 @@ First, you'll need to clone the repo. Follow these instructions carefully.
 
 1. Navigate to somewhere amazing on your machine.
     ```sh
-    $ cd banana/pajama/somewhere/amazing/
+    
+    $ cd usr/banana/pajama/somewhere/amazing/
+
     ```
 2. Clone the repo.
    ```sh
